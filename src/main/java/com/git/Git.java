@@ -8,6 +8,6 @@ public class Git {
         System.out.println("hello,git4");
         System.out.println("master,test");
         System.out.println("hello,fox");
-        System.out.println("hello,test");
+        System.out.println("hello");
     }
 }
